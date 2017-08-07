@@ -1,0 +1,103 @@
+.title .trans{
+    color: #6663ab;
+}
+.ab{
+    width: 100%;
+    height:2000px;
+    background: #f7f7f7;
+}
+.a{
+    width: 1200px;
+    height:1980px;
+    border:1px solid black;
+    margin:0 auto;
+    padding-top: 20px;
+}
+.al{
+    width:915px;
+    height:1980px;
+    background: #ffffff;
+    float: left;
+}
+.ar{
+    width: 265px;
+    height: 1980px;
+    margin-left: 935px;
+}
+.ar-1{
+    width:100px;
+    height: 30px;
+    background: #6663ab;
+    line-height: 30px;
+    text-align: center;
+    margin:0 100px 20px 80px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.al-1 a{
+    color: white;
+    text-decoration: none;
+}
+.ar-2{
+    width:100px;
+    height: 30px;
+    background: #6663ab;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 6px;
+    cursor: pointer;
+    margin:10px 100px 20px 80px;
+}
+.ar-3 input{
+    width: 85px;
+    height: 35px;
+    border:none;
+    background: #ededf9;
+    color: #7d7ab7;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.al-1{
+    width: auto;
+    height: 37px;
+    border:1px solid black;
+    margin:12px 13px 0 13px;
+}
+.al-1-1{
+    width: 80px;
+    height: 37px;
+    line-height: 37px;
+    font-size: 14px;
+    text-align: center;
+    float: left;
+}
+.al-1-1:hover{
+    border-bottom: 2px solid #6663ab;
+}
+.al-2{
+    width: auto;
+    height: 37px;
+    line-height: 37px;
+    float: right;
+}
+.al-2-1{
+    width: 20px;
+    height:20px;
+    border:1px solid grey;
+    float: right;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.al-3{
+    width:auto;
+    height: 90px;
+    margin:0 13px;
+    border-bottom: 1px dashed #ececec;
+}
+.al-3-1{
+    width: auto;
+    height: auto;
+}
+

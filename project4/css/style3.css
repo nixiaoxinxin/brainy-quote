@@ -1,0 +1,217 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 349896 */
+    src: url('//at.alicdn.com/t/font_a29mwxy1j3e4s4i.eot');
+    src: url('//at.alicdn.com/t/font_a29mwxy1j3e4s4i.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_a29mwxy1j3e4s4i.woff') format('woff'),
+    url('//at.alicdn.com/t/font_a29mwxy1j3e4s4i.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_a29mwxy1j3e4s4i.svg#iconfont') format('svg');
+}
+.title .trans{
+    color: #6663ab;
+}
+.ab{
+    width: 100%;
+    height:2000px;
+    background: #f7f7f7;
+}
+.a{
+    width: 1200px;
+    height:1980px;
+    margin:0 auto;
+    padding-top: 20px;
+}
+.al{
+    width:915px;
+    height:1980px;
+    background: #ffffff;
+    float: left;
+}
+.ar{
+    width: 265px;
+    height: 1980px;
+    margin-left: 935px;
+}
+.ar-1{
+    width:100px;
+    height: 30px;
+    background: #6663ab;
+    line-height: 30px;
+    text-align: center;
+    margin:0 100px 20px 80px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.al-1 a{
+    color: white;
+    text-decoration: none;
+}
+.ar-2{
+    width:100px;
+    height: 30px;
+    background: #6663ab;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 6px;
+    cursor: pointer;
+    margin:10px 100px 20px 80px;
+}
+.ar-3 input{
+    width: 85px;
+    height: 35px;
+    border:none;
+    background: #ededf9;
+    color: #7d7ab7;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.al-1{
+    width: auto;
+    height: 37px;
+    margin:12px 13px 0 13px;
+}
+.al-1-1{
+    width: 80px;
+    height: 37px;
+    line-height: 37px;
+    font-size: 14px;
+    text-align: center;
+    float: left;
+}
+.al-1-1:hover{
+    border-bottom: 2px solid #6663ab;
+    color: #6663ab;
+}
+.al-2{
+    width: auto;
+    height: 37px;
+    line-height: 37px;
+    float: right;
+}
+.al-2-1{
+    width: 20px;
+    height:20px;
+    border:1px solid grey;
+    float: right;
+    margin-top: 8px;
+    margin-left: 10px;
+    font-family: iconfont;
+    text-align: center;
+    line-height: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.al-3{
+    width:auto;
+    height: 90px;
+    margin:0 13px;
+    border-bottom: 1px dashed #ececec;
+   position: relative;
+}
+.al-3:hover{
+    background: #f7f7f7;
+}
+.al-3-1{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    top:25px;
+    text-align: center;
+}
+.al-3-2{
+    width: 50px;
+    height: 50px;
+    background: #6663ab;
+    position: absolute;
+    top:20px;
+    text-align: center;
+    left:70px;
+}
+.al-3-2 p{
+    margin-top:3px;
+    color: white;
+}
+.al-3-3{
+    position: absolute;
+    width: 400px;
+    height: 20px;
+    top:20px;
+    left:150px;
+
+}
+.al-3-3 span{
+    margin-right: 130px;
+    color: #c3c3c3;
+    font-size: 14px;
+}
+.al-3-4{
+    position: absolute;
+    top:50px;
+    left:150px;
+    font-size: 14px;
+    color: #747474;
+}
+.al-3-5{
+    position: absolute;
+    top:50px;
+    left:580px;
+}
+.al-3-5 input{
+    width: 80px;
+    height:30px;
+    border:none;
+    border-radius: 6px;
+    background: #ededf9;
+    margin-right: 10px;
+    color: #a4a4aa;
+    cursor: pointer;
+}
+.al-4{
+    width: 505px;
+    height: 35px;
+    margin:85px auto;
+    line-height: 35px;
+    color:grey;
+}
+.al-4 .btn1{
+    width: 63px;
+    height: 32px;
+    border:none;
+    border:1px solid gainsboro;
+    background: none;
+    color:grey;
+    outline: none;
+    font-family: iconfont;
+}
+.al-4 .btn2{
+    width: 32px;
+    height: 32px;
+    border:none;
+    border:1px solid gainsboro;
+    outline: none;
+    margin-left: 0px;
+    background: none;
+}
+.al-4 .btn1:active{
+    background: #6663ab;
+    color: white;
+}
+.al-4 .btn2:active{
+    background: #6663ab;
+    color: white;
+}
+.al-4 .number{
+    width: 32px;
+    height: 22px;
+}
+.al-4 .sure{
+    width: 42px;
+    height: 22px;
+    border:none;
+    background: none;
+    border:1px solid gainsboro;
+    color:  #6663ab;
+}
+
+

@@ -1,0 +1,51 @@
+.ab{
+    width: 100%;
+    height: auto;
+    background: #f7f7f7;
+    padding-top: 20px;
+}
+.a{
+    width: 1200px;
+    height: 2000px;
+    background: #ffffff;
+    margin: 0 auto ;
+}
+.a1{
+    width: 100%;
+    height: 180px;
+    border-bottom: 1px dashed grey;
+    position: relative;
+}
+.a1:hover{
+    background: #f7f7f7;
+}
+.a1-1{
+    position: absolute;
+    top:40px;
+    left: 40px;
+}
+.a1-2{
+    position: absolute;
+    left:170px;
+    color:#666666;
+    font-size: 16px;
+    top:20px;
+}
+.a1-3{
+    position: absolute;
+    right:20px;
+    top:80px;
+}
+.a1-3 input{
+    width: 100px;
+    height: 30px;
+    border:none;
+    background: #ffffff;
+    border:1px solid #6663ab;
+    color: #6663ab !important;
+    border-radius: 5px;
+    outline: none;
+}
+.a1-2 p{
+    margin-bottom: 10px;
+}

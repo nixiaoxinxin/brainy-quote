@@ -1,0 +1,211 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 349896 */
+    src: url('//at.alicdn.com/t/font_2rchsd6horzlg14i.eot');
+    src: url('//at.alicdn.com/t/font_2rchsd6horzlg14i.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_2rchsd6horzlg14i.woff') format('woff'),
+    url('//at.alicdn.com/t/font_2rchsd6horzlg14i.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_2rchsd6horzlg14i.svg#iconfont') format('svg');
+}
+.ab{
+    width:100%;
+    height: 1030px;
+    background: #f7f7f7;
+}
+.a{
+    width: 1200px;
+    height: 1000px;
+    margin:0 auto;
+    padding-top: 10px;
+    background: #f7f7f7;
+}
+.al{
+    width: 800px;
+    height: 800px;
+    float: left;
+    border:1px solid #ececec;
+    background: #f7f7f7;
+}
+.ar{
+    width: 400px;
+    height: 830px;
+    border:2px solid #ececec;
+    margin-left: 800px;
+    background: #f7f7f7;
+}
+.al-1{
+    width: 800px;
+    height: 37px;
+    background: #ededf9;
+    line-height: 37px;
+    color: #666666;
+    font-size: 16px;
+}
+.al-2{
+    width:800px;
+    height: 585px;
+    background: #ffffff;
+    border-bottom: 1px solid gainsboro;
+    padding-top: 30px;
+}
+.al-2-1{
+    width: auto;
+    height: 62px;
+    margin-left: 20px;
+    position: relative;
+}
+.al-2-2{
+    position: absolute;
+    top:0;
+    left:37px;
+    font-size: 12px;
+    color: #808080;
+}
+.al-2-3{
+    width: 382px;
+    height: 42px;
+    border:1px solid gainsboro;
+    position: absolute;
+    left: 37px;
+    top:17px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 42px;
+    color:#808080;
+    box-shadow: 1px 1px 1px grey;
+}
+.al-2-4{
+    margin-left: 20px;
+    margin-top: 50px;
+    position: relative;
+}
+.al-2-5{
+    margin-left:500px;
+    margin-top: 330px;
+    position: relative;
+}
+.al-2-6{
+    width: 200px;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+    font-size: 14px;
+    color:#808080;
+    box-shadow: 1px 1px 1px grey;
+    position: absolute;
+    right:57px;
+    top:20px;
+    background: #ededf9;
+    border-radius: 5px;
+}
+.al-2-7{
+    position: absolute;
+    top:0;
+    right:57px;
+    font-size: 12px;
+    color: #808080;
+
+}
+.al-2-8{
+    position: absolute;
+    right: 20px;
+    top:0px;
+}
+.al-2-4-1{
+    width: 424px;
+    height: 322px;
+    border:1px solid gainsboro;
+    position: absolute;
+    left: 37px;
+    top:17px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 42px;
+    color:#808080;
+    box-shadow: 3px 3px 3px 3px #e0e0e0;
+}
+.al-3{
+    width: 800px;
+    height: 35px;
+    background: #f7f7f7;
+}
+.al-3 span{
+    font-family: iconfont;
+   line-height: 35px;
+    color: grey;
+    margin-left: 20px;
+}
+.al-3 .al-3-1{
+    float: right;
+    margin-right: 20px;
+}
+.al-4{
+    width: 800px;
+    height: 144px;
+    background: #ffffff;
+    border-bottom: 1px solid gainsboro;
+    position: relative;
+}
+.al-4-1{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+.al-4-1 input{
+    width: 75px;
+    height: 26px;
+    border:none;
+    border-radius: 5px;
+    background: #f7f7f7;
+    color: grey;
+}
+.al-1 a{
+    line-height: 37px;
+    color: #666666;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.ar-1{
+    width: 380px;
+    height: 40px;
+    border-bottom: 1px solid #d9d9d9;
+    margin-left: 20px;
+}
+
+.ar-1-1{
+    width: 75px;
+    height: 40px;
+    line-height: 45px;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+.ar-1-1:nth-child(1){
+    color: #6663ab;
+    border-bottom: 2px solid #6663ab;
+}
+.ar-1-1:hover{
+    color: #6663ab;
+    border-bottom: 2px solid #6663ab;
+}
+.ar-2{
+    width: 380px;
+    height: 960px;
+    border-top: 1px solid #d9d9d9;
+    margin-left: 20px;
+}
+.ar-2-1{
+    width: 380px;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 15px;
+    color: #adadad;
+}
+.ar-2-1 input{
+    width: 80px;
+    height: 30px;
+    border: none;
+    background: #ededf9;
+    color: #7d7ab7;
+    border-radius: 6px;
+    margin-left: 30px;
+}
